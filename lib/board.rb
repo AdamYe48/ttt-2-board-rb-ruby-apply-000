@@ -5,7 +5,7 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 board[0]
 
 # Position 2: Middle
-row[1]
+board[1]
 
 # Position 3: Right
 row[2]
