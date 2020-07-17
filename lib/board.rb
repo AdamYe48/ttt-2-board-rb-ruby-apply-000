@@ -30,4 +30,4 @@ board[9]
 
 # Move X to the Postion 2, Middle
 board[2] = "X"
-board #=> [" ", "X", " "]
+board #=> [" ", " ", " "]
