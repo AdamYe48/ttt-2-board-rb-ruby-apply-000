@@ -1,5 +1,5 @@
 # Define the variable board below.
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+board = ["1", " ", " ", " ", " ", " ", " ", " ", " "]
 
 # Position 1: Left
 board[1]
